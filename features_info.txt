@@ -1,3 +1,14 @@
+# Code book
+
+Additionally to what was provided from the original data two columns was added:
+
+subject -- id of the subject measured
+activity -- activity done during the measurement
+
+The rest of the columns and their description can be found from the 
+origin data code book which is the text below:
+
+
 Feature Selection 
 =================
 
